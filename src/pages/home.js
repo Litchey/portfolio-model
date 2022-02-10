@@ -14,7 +14,7 @@ class Home extends React.Component {
                 </div>
 
                 <img class="bottom-cloud" src="https://i.ibb.co/Lr0KvPf/cloud.png" alt="cloud-image" />
-                <img src="https://i.ibb.co/bFRH8wh/mountain.png" alt="mountain-image" />
+//                 <img src="https://i.ibb.co/bFRH8wh/mountain.png" alt="mountain-image" />
 
             </div>
             
@@ -24,7 +24,7 @@ class Home extends React.Component {
                     <div class="profile">
                         <img style={{ height: "bl147ock", width: "147", alt: "lituu" }} src="https://i.ibb.co/3NR1Wt6/litcheepeddy.png" />
                         <h2>Hello</h2>
-                        <p class="intro"><h3>I am Lithish, I am intrested in web developing and also in pragmatic programming.</h3></p>
+                        <p class="intro">I am Lithish, I am intrested in mern stack and in pragmatic programming.</p>
                     </div>
                     <hr />
 
@@ -49,8 +49,8 @@ class Home extends React.Component {
 
                 </div><hr /><div class="contact-me">
                     <h2>Get In Touch</h2>
-                    <h3>Always welcome for the interactions</h3>
-                    <p class="contact-message"><h3 style={{color: "#027377"}}>I always welcome the generous conversations and interactions. Below links are recommended to contact me. These links are my personal media links.</h3></p>
+                     <h3>Below links are for interactions</h3>
+                 
                     <a class="btn" href="mailto:name@email.com">CONTACT ME</a>
                 </div><div class="bottom-container">
                      <a class="footer-link" href="https://www.linkedin.com/in/lituu-lithish-609363188/"><h3>LinkedIn</h3></a>  
