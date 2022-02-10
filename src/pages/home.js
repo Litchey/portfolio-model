@@ -14,7 +14,7 @@ class Home extends React.Component {
                 </div>
 
                 <img class="bottom-cloud" src="https://i.ibb.co/Lr0KvPf/cloud.png" alt="cloud-image" />
-                <img src="https://i.ibb.co/bFRH8wh/mountain.png" alt="mountain-image" />
+//                 <img src="https://i.ibb.co/bFRH8wh/mountain.png" alt="mountain-image" />
 
             </div>
             
